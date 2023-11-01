@@ -1,8 +1,8 @@
 {
-  "name": "ABHISHEK-SER",
+  "name": "Miraculous ladybug",
   "description": "Customizable WhatsApp Bot",
   "repository": "https://github.com/AbhishekSuresh2/ABHISHEK-SER",
-  "logo": "https://replicate.delivery/pbxt/QbP6Fh3ZXwKON9SCB70ERGwwgeeSbztwKIOIzhUeXFkwnFHiA/out.png",
+  "logo": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fd1nxzqpcg2bym0.cloudfront.net%2Fgoogle_play%2Fjuvdev.miraculous.ladybyg.songs.allmusic.allsong%2F5d9e3b84-2cdd-11e8-b0fb-151ce92acc80%2F640&tbnid=mPLOLUU2f0htoM&vet=12ahUKEwiGkuDZpKOCAxWCmmMGHdQSO5MQMyhcegUIARCTAg..i&imgrefurl=https%3A%2F%2Fapptopia.com%2Fgoogle-play%2Fapp%2Fjuvdev.miraculous.ladybyg.songs.allmusic.allsong%2Fabout&docid=KIfTCW1ka_r8EM&w=640&h=640&q=Miraculous%20ladybug%20640%2B640&ved=2ahUKEwiGkuDZpKOCAxWCmmMGHdQSO5MQMyhcegUIARCTAg",
   "keywords": ["bot", "whatsapp", "whatsapp-bot", "ABHISHEK-SER", "wa-bot", "THIS IS TAGS I REMOVE SOME TAGS"],
   "buildpacks": [
     {
